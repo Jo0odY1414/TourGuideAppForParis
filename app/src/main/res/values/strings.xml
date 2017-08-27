@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Tour Guide App For Paris</string>
+    <string name="category_attractions">Attractions</string>
+    <string name="category_gardens">Gardens</string>
+    <string name="category_hotel">Hotel</string>
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Attraction -->
+    <string-array name="Musee_d_Orsay">
+        <item name="place_name">Musee d\'Orsay</item>
+        <item name="place_address">1, Rue de la Legion d\'Honneur, 75007 Paris, France</item>
+        <item name="place_phone_number">+33 1 40 49 48 14</item>
+        <item name="place_reviews">51,490 reviews</item>
+    </string-array>
+    <string-array name="Eiffel_Tower">
+        <item name="place_name">Eiffel Tower</item>
+        <item name="place_address">5 Avenue Anatole France, 75007 Paris, France</item>
+        <item name="place_phone_number">+33 892 70 12 39</item>
+        <item name="place_reviews">107,670 reviews</item>
+    </string-array>
+    <string-array name="Musee_du_Louvre">
+        <item name="place_name">Musee du Louvre</item>
+        <item name="place_address">99 rue de Rivoli, 75001 Paris, France</item>
+        <item name="place_phone_number">+33 1 40 20 50 50</item>
+        <item name="place_reviews">77,193 reviews</item>
+    </string-array>
+    <string-array name="Notre_Dame_Cathedral">
+        <item name="place_name">Notre Dame Cathedral</item>
+        <item name="place_address">6 Parvis Notre-Dame | Place Jean-Paul II, 75004 Paris, France</item>
+        <item name="place_phone_number">+33 1 42 34 56 10</item>
+        <item name="place_reviews">55,570 reviews</item>
+    </string-array>
+
+    <!-- Gardens -->
+    <string-array name="Luxembourg_Gardens">
+        <item name="place_name">Luxembourg Gardens</item>
+        <item name="place_address">Rue de Vaugirard, Boulevard St. Michel, Rue Auguste-Comte
+            | I iooll, 75006 Paris, France</item>
+        <item name="place_phone_number">+33 1 42 34 20 00</item>
+        <item name="place_reviews">28,520 reviews</item>
+    </string-array>
+    <string-array name="Jardin_des_Tuileries">
+        <item name="place_name">Jardin des Tuileries</item>
+        <item name="place_address">Jardin des Tuileries | pl. de la Concorde, rue de Rivoli,
+            75058 Paris, France</item>
+        <item name="place_phone_number"> </item>
+        <item name="place_reviews">5,831 reviews</item>
+    </string-array>
+    <string-array name="Jardin_des_Plantes">
+        <item name="place_name">Jardin des Plantes</item>
+        <item name="place_address">57 rue Cuvier, 75005 Paris, France</item>
+        <item name="place_phone_number">+33 1 40 79 30 00</item>
+        <item name="place_reviews">1,275 reviews</item>
+    </string-array>
+    <string-array name="Jardin_du_Palais_Royal">
+        <item name="place_name">Jardin du Palais Royal</item>
+        <item name="place_address">6 rue de Montpensier, 75001 Paris, France</item>
+        <item name="place_phone_number">+33 1 47 03 92 16</item>
+        <item name="place_reviews">553 reviews</item>
+    </string-array>
+
+    <!-- Hotel -->
+    <string-array name="Hotel_du_Louvre">
+        <item name="place_name">Hotel du Louvre</item>
+        <item name="place_address">Place Andre Malraux, 75001 Paris, France</item>
+        <item name="place_phone_number">+33 1 73 11 12 34</item>
+        <item name="place_reviews">2,145 reviews</item>
+    </string-array>
+    <string-array name="Maison_Souquet">
+        <item name="place_name">Maison Souquet</item>
+        <item name="place_address">10 rue de Bruxelles, 75009 Paris, France</item>
+        <item name="place_phone_number">+33 1 48 78 55 55</item>
+        <item name="place_reviews">623 reviews</item>
+    </string-array>
+    <string-array name="Le_Narcisse_Blanc_Hotel_and_Spa">
+        <item name="place_name">Le Narcisse Blanc Hotel and Spa</item>
+        <item name="place_address">19 boulevard de la Tour Maubourg, 75007 Paris, France</item>
+        <item name="place_phone_number">+33 9 70 73 32 72</item>
+        <item name="place_reviews">189 reviews</item>
+    </string-array>
+    <string-array name="Le_Bristol_Paris">
+        <item name="place_name">Le Bristol Paris</item>
+        <item name="place_address">112 rue du Faubourg Saint Honore | 8th Arr., 75008 Paris, France</item>
+        <item name="place_phone_number">+33 9 70 73 37 30</item>
+        <item name="place_reviews">1,638 reviews</item>
+    </string-array>
+
+    <!-- Restaurants -->
+    <string-array name="ASPIC">
+        <item name="place_name">ASPIC</item>
+        <item name="place_address">24 rue de la Tour D Auvergne, 75009 Paris, France</item>
+        <item name="place_phone_number">+33 9 82 49 30 98</item>
+        <item name="place_reviews">326 reviews</item>
+    </string-array>
+    <string-array name="Les_Apotres_de_Pigalle">
+        <item name="place_name">Les Apotres de Pigalle</item>
+        <item name="place_address">2 rue Germain Pilon, 75018 Paris, France</item>
+        <item name="place_phone_number">+33 6 51 21 69 66</item>
+        <item name="place_reviews">903 reviews</item>
+    </string-array>
+    <string-array name="Epicure">
+        <item name="place_name">Epicure</item>
+        <item name="place_address">112 Rue Du Faubourg Saint-Honore | Le Bristol Paris, 75008 Paris, France</item>
+        <item name="place_phone_number">+33 153 43 43 40</item>
+        <item name="place_reviews">2,188 reviews</item>
+    </string-array>
+    <string-array name="L_Abeille">
+        <item name="place_name">L\'Abeille</item>
+        <item name="place_address">10 Avenue d Iena | Shangri-La Hotel, Paris - Lobby Level, 75116 Paris, France</item>
+        <item name="place_phone_number">+33 1 53 67 19 90</item>
+        <item name="place_reviews">358 reviews</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
